@@ -1,8 +1,6 @@
 # Predicting Heart Disease 
 Currently, I have three submissions. First just as a quick base I did logistic regression. Then I moved onto GMB. I found that the LGMB was the most effective for this. I then tuned it.
 
-![image](image.png)
-
 All of my development is done inside `main.ipynb`
 
 I'm using Python 3.10 for the best compatability.
@@ -15,6 +13,3 @@ conda activate heart
 ```
 
 Use this virtual environment for the jupyter notebook. Note everything has already been run so you don't need to install anything to see the outputs.
-
-
-I decided against OOF‑stacking and MLP. It's probably not the best use of my time.
