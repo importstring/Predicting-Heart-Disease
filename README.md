@@ -13,3 +13,5 @@ conda activate heart
 ```
 
 Use this virtual environment for the jupyter notebook. Note everything has already been run so you don't need to install anything to see the outputs.
+
+![image](image.png)
