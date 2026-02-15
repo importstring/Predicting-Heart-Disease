@@ -17,3 +17,4 @@ conda activate heart
 Use this virtual environment for the jupyter notebook. Note everything has already been run so you don't need to install anything to see the outputs.
 
 
+I decided against OOF‑stacking and MLP. It's probably not the best use of my time.
